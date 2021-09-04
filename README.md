@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carlosguadian
-- 👀 I’m interested in Data Science, Analytics, SNA, Politics, Technology and so on...
-- 🌱 I’m currently learning about Data Science and Analytics
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me:
+- 👋  Hi, I’m @carlosguadian
+- 👀  I’m interested in Data Science, Analytics, SNA, Politics, Technology and so on...
+- 🌱  I’m currently learning about Data Science and Analytics
+- 💞️  I’m looking to collaborate
+- 📫  How to reach me:
   - On Twitter @carlosguadian
   - On my web https://carlosguadian.net
   
