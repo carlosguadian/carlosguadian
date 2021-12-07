@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning about Data Science and Analytics
 - 💞️  I’m looking to collaborate
 - 📫  How to reach me:
-  - On Twitter @carlosguadian
+  - On Twitter [@carlosguadian](https://twitter.com/carlosguadian)
   - On my web https://carlosguadian.net
   
 
